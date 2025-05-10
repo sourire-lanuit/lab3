@@ -1,0 +1,12 @@
+C:\Users\User\git\lab3\library\bin\Debug\net9.0\library.deps.json
+C:\Users\User\git\lab3\library\bin\Debug\net9.0\library.dll
+C:\Users\User\git\lab3\library\bin\Debug\net9.0\library.pdb
+C:\Users\User\git\lab3\library\obj\Debug\net9.0\library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\git\lab3\library\obj\Debug\net9.0\library.AssemblyInfoInputs.cache
+C:\Users\User\git\lab3\library\obj\Debug\net9.0\library.AssemblyInfo.cs
+C:\Users\User\git\lab3\library\obj\Debug\net9.0\library.csproj.CoreCompileInputs.cache
+C:\Users\User\git\lab3\library\obj\Debug\net9.0\library.sourcelink.json
+C:\Users\User\git\lab3\library\obj\Debug\net9.0\library.dll
+C:\Users\User\git\lab3\library\obj\Debug\net9.0\refint\library.dll
+C:\Users\User\git\lab3\library\obj\Debug\net9.0\library.pdb
+C:\Users\User\git\lab3\library\obj\Debug\net9.0\ref\library.dll
